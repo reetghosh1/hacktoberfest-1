@@ -18,6 +18,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [REET GHOSH](https://github.com/reetghosh1)
+- Place: Mumbai, India
+- Bio: 2nd year Computer Science and Engineering student from Manipal University Jaipur!
+- GitHub: [reetghosh1](https://github.com/reetghosh1)
+
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
